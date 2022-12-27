@@ -1,0 +1,13 @@
+MongoDB:
+-------
+
+---> MongoDB has the capacity to store massive amounts of data.
+     Manipulation of datas stored here are easier and faster.
+     
+---> MongoDB vs MySQL:
+          MONGO DB:     Collections    Documents
+          MY SQL:       Tables         Table-data
+          
+---> JSON is a kind of structure to store datas. 
+     These dats are stored in the form of key value pairs.
+     These dats when gets stored inside the DB, gets converted into BSON data. Binary form. Which makes it even more easier to handle the data.
