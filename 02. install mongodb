@@ -1,0 +1,5 @@
+mongodb.com --> community edition --> click community server --> Click Download.
+Click next next custom --> location --> E drive --> Finish
+Open command prompt --> Type 'mongod' --> this starts mongodb service in our system after which we can start working with mongodb.
+Start --> type 'env' --> Click edit environment varaibles for your account. --> Double click path option.
+Click New --> Click Browse --> Go to custom path we have set for mongodb installation --> click path finally bin folder and click ok.
