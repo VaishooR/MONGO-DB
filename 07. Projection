@@ -1,0 +1,4 @@
+find().limit(2)
+find().skip(4)
+find().sort( {name:1} )
+      .sort( {name:-1} )
