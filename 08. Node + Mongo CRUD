@@ -21,6 +21,7 @@ app.set('views','views')
 
 
 
+---> Create a folder 'views' --> a file 'main.hbs'
 
 
 
