@@ -1,0 +1,9 @@
+$gt, $lt, $gte, $lte, 
+
+$eq, $neq, $not, $nor
+
+$and, $or,
+
+$where
+
+$regex
