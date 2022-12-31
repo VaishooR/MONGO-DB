@@ -1,5 +1,8 @@
 ---> Create a folder in VS code.
 ---> Terminal -->  
-              npm i --s express express-handlers body-parser
+              npm i express 
+              npm i express-handlers 
+              npm i body-parser
               npm i -g nodemon
 ---> Create a file app.js
+
